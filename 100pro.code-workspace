@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "rock-paper-scissors",
-			"path": "rock-paper-scissors"
 		}
 	],
 	"settings": {}
